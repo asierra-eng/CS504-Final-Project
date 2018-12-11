@@ -1,0 +1,25 @@
+gbm variable importance
+
+  only 20 most important variables shown (out of 35)
+
+            Overall
+NSM          100.00
+Press_mm_hg   50.85
+RH_2          43.29
+RH_1          41.60
+T3            38.97
+RH_3          36.54
+RH_5          34.02
+RH_6          30.76
+RH_8          29.93
+RH_7          29.65
+T6            29.03
+RH_9          28.26
+T8            28.24
+rv1           26.77
+RH_4          26.53
+T2            26.32
+RH_out        25.28
+T1            24.74
+T4            24.09
+T9            23.80

@@ -1,0 +1,25 @@
+rf variable importance
+
+  only 20 most important variables shown (out of 35)
+
+            Overall
+NSM          100.00
+lights        56.58
+RH_5          33.48
+Press_mm_hg   31.77
+T3            26.97
+Tdewpoint     25.65
+Visibility    24.45
+RH_3          23.18
+T8            23.08
+Windspeed     21.92
+T5            21.57
+RH_1          21.18
+RH_7          20.61
+RH_9          20.12
+RH_2          19.58
+RH_6          18.47
+T9            18.28
+T1            18.16
+T7            17.40
+RH_4          17.25

@@ -1,0 +1,25 @@
+loess r-squared variable importance
+
+  only 20 most important variables shown (out of 35)
+
+                  Overall
+NSM               100.000
+lights             82.533
+RH_out             49.178
+RH_6               39.167
+T6                 31.614
+T2                 30.575
+RH_8               29.876
+T_out              20.850
+RH_7               17.387
+Windspeed          16.096
+RH_1               15.696
+T3                 15.343
+RH_5               10.626
+RH_2                7.753
+T1                  6.520
+Day_of_weekMonday   6.254
+RH_9                5.616
+T4                  3.441
+T8                  3.321
+RH_3                2.793

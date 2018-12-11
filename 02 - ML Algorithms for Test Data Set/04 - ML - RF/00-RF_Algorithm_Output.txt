@@ -1,0 +1,17 @@
+Random Forest 
+
+4932 samples
+  35 predictor
+
+No pre-processing
+Resampling: Cross-Validated (10 fold, repeated 3 times) 
+Summary of sample sizes: 4438, 4440, 4439, 4439, 4438, 4440, ... 
+Resampling results across tuning parameters:
+
+  mtry  RMSE      Rsquared   MAE     
+   2    80.31819  0.3963886  41.11157
+  18    79.79774  0.3831336  40.90194
+  35    80.46940  0.3734369  41.19948
+
+RMSE was used to select the optimal model using the smallest value.
+The final value used for the model was mtry = 18.

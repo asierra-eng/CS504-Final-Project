@@ -1,0 +1,32 @@
+Support Vector Machines with Radial Basis Function Kernel 
+
+4932 samples
+  35 predictor
+
+Pre-processing: centered (35), scaled (35) 
+Resampling: Cross-Validated (10 fold, repeated 3 times) 
+Summary of sample sizes: 4438, 4440, 4439, 4439, 4438, 4440, ... 
+Resampling results across tuning parameters:
+
+  sigma  C   RMSE      Rsquared   MAE     
+  0.10    1  87.54872  0.3082928  38.77485
+  0.10    3  84.22327  0.3224430  40.02052
+  0.10    5  84.61816  0.3150681  41.59468
+  0.10    8  86.09750  0.3036987  43.49018
+  0.10   10  86.99289  0.2981997  44.43602
+  0.10   12  87.92784  0.2928939  45.25123
+  0.35    1  89.44660  0.2785370  41.34733
+  0.35    3  86.69769  0.2744319  43.81517
+  0.35    5  87.86944  0.2597536  45.45727
+  0.35    8  89.44333  0.2470418  46.67459
+  0.35   10  89.89220  0.2438363  47.02704
+  0.35   12  90.19455  0.2417574  47.23218
+  0.40    1  90.06822  0.2701371  41.87870
+  0.40    3  87.29789  0.2644835  44.46103
+  0.40    5  88.29104  0.2511562  46.01812
+  0.40    8  89.61489  0.2400606  47.04129
+  0.40   10  89.95049  0.2376014  47.30845
+  0.40   12  90.14310  0.2361303  47.44830
+
+RMSE was used to select the optimal model using the smallest value.
+The final values used for the model were sigma = 0.1 and C = 3.

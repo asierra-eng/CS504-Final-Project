@@ -1,0 +1,25 @@
+lm variable importance
+
+  only 20 most important variables shown (out of 32)
+
+                    Overall
+lights              100.000
+RH_1                 99.699
+T3                   86.351
+RH_2                 76.426
+RH_8                 59.195
+T6                   57.315
+T2                   53.902
+Day_of_weekFriday    47.644
+Day_of_weekSaturday  35.157
+NSM                  33.416
+RH_3                 32.818
+T9                   32.247
+T8                   30.822
+T_out                28.344
+Windspeed            22.610
+Visibility           19.124
+Day_of_weekMonday    15.695
+T5                   13.866
+Day_of_weekThursday   9.548
+RH_out                7.307

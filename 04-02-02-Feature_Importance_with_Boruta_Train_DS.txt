@@ -1,0 +1,5 @@
+Boruta performed 99 iterations in 5.174527 mins.
+ 29 attributes confirmed important: date, Day_of_week, lights, NSM,
+Press_mm_hg and 24 more;
+ No attributes deemed unimportant.
+ 2 tentative attributes left: rv1, rv2;

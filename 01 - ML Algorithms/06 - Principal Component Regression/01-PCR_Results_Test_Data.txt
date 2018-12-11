@@ -1,0 +1,45 @@
+Data: 	X dimension: 19735 35 
+	Y dimension: 19735 1
+Fit method: svdpc
+Number of components considered: 35
+
+VALIDATION: RMSEP
+Cross-validated using 10 random segments.
+       (Intercept)  1 comps  2 comps  3 comps  4 comps  5 comps  6 comps
+CV           102.5    102.2    102.2    102.2      101     99.7    98.87
+adjCV        102.5    102.2    102.2    102.2      101     99.7    98.86
+       7 comps  8 comps  9 comps  10 comps  11 comps  12 comps  13 comps
+CV       98.77    98.78    98.33     98.22     98.21     97.74     97.74
+adjCV    98.77    98.77    98.33     98.21     98.21     97.74     97.74
+       14 comps  15 comps  16 comps  17 comps  18 comps  19 comps  20 comps
+CV        97.72     97.73     97.70     96.77     96.05     95.77     95.77
+adjCV     97.72     97.73     97.69     96.76     96.04     95.76     95.76
+       21 comps  22 comps  23 comps  24 comps  25 comps  26 comps  27 comps
+CV        95.71     95.72     95.51     95.44      94.6     94.49     94.27
+adjCV     95.71     95.72     95.50     95.44      94.6     94.48     94.26
+       28 comps  29 comps  30 comps  31 comps  32 comps  33 comps  34 comps
+CV        94.03     93.92     93.77     93.42     93.37     93.36     93.38
+adjCV     94.02     93.92     93.76     93.41     93.36     93.35     93.36
+       35 comps
+CV        93.40
+adjCV     93.37
+
+TRAINING: % variance explained
+            1 comps  2 comps  3 comps  4 comps  5 comps  6 comps  7 comps
+X           26.7062  46.9770  55.8645   61.693   67.280   71.378   74.863
+Appliances   0.5721   0.6336   0.6609    3.077    5.493    7.081    7.262
+            8 comps  9 comps  10 comps  11 comps  12 comps  13 comps  14 comps
+X            78.232   81.444    84.297    87.072    89.460    91.387    92.917
+Appliances    7.272    8.118     8.339     8.354     9.226     9.238     9.282
+            15 comps  16 comps  17 comps  18 comps  19 comps  20 comps
+X             94.331    95.573     96.57     97.11     97.54     97.93
+Appliances     9.285     9.361     11.09     12.43     12.95     12.95
+            21 comps  22 comps  23 comps  24 comps  25 comps  26 comps
+X              98.30     98.61     98.92     99.18     99.38     99.57
+Appliances     13.05     13.07     13.45     13.57     15.10     15.32
+            27 comps  28 comps  29 comps  30 comps  31 comps  32 comps
+X              99.69     99.81     99.88     99.95     99.99     100.0
+Appliances     15.71     16.17     16.37     16.65     17.28      17.4
+            33 comps  34 comps  35 comps
+X             100.00    100.00    100.00
+Appliances     17.41     17.41     17.41

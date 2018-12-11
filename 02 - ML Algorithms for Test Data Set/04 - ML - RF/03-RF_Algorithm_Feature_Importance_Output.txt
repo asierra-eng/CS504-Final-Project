@@ -1,0 +1,25 @@
+rf variable importance
+
+  only 20 most important variables shown (out of 35)
+
+                  Overall
+NSM                100.00
+lights              49.82
+Press_mm_hg         42.70
+T3                  39.12
+T8                  32.58
+RH_1                30.80
+RH_5                30.19
+Tdewpoint           29.57
+RH_3                29.10
+T5                  27.27
+T4                  27.00
+T9                  26.64
+T7                  26.29
+T_out               26.09
+RH_9                22.57
+T1                  22.41
+T2                  21.24
+Day_of_weekFriday   21.12
+Visibility          21.05
+RH_7                20.96
